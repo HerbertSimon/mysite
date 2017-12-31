@@ -1,0 +1,4 @@
+workerlog:
+    logpath:../logs
+    loglevel:5
+
